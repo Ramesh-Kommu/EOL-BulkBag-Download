@@ -11,8 +11,8 @@ import pandas as pd
 
 
 URL = "https://proapp.techway.online/index.aspx"
-USERNAME = "Walmeek.borde@unilever.com"
-PASSWORD = "Unilever@#2025"
+USERNAME = "*********************"
+PASSWORD = "***********************"
 downloads_folder = os.path.join(os.path.expanduser("~"), "Downloads")
 
 yesterday = datetime.now() - timedelta(days=1)
